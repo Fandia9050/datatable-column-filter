@@ -1,0 +1,3002 @@
+[
+  {
+    "sales_id": "SO-1000",
+    "date": "2025-01-01",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 4,
+    "price": 26748,
+    "payment_method": "Credit Card",
+    "total": 106992
+  },
+  {
+    "sales_id": "SO-1001",
+    "date": "2025-01-02",
+    "customer_name": "Dewi",
+    "product": "Chocolate Drink",
+    "qty": 8,
+    "price": 49577,
+    "payment_method": "Credit Card",
+    "total": 396616
+  },
+  {
+    "sales_id": "SO-1002",
+    "date": "2025-01-03",
+    "customer_name": "Eka",
+    "product": "Cappuccino",
+    "qty": 2,
+    "price": 14621,
+    "payment_method": "Transfer",
+    "total": 29242
+  },
+  {
+    "sales_id": "SO-1003",
+    "date": "2025-01-04",
+    "customer_name": "Gilang",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 25034,
+    "payment_method": "Transfer",
+    "total": 75102
+  },
+  {
+    "sales_id": "SO-1004",
+    "date": "2025-01-05",
+    "customer_name": "Citra",
+    "product": "Latte",
+    "qty": 1,
+    "price": 15126,
+    "payment_method": "E-Wallet",
+    "total": 15126
+  },
+  {
+    "sales_id": "SO-1005",
+    "date": "2025-01-06",
+    "customer_name": "Hani",
+    "product": "Matcha",
+    "qty": 1,
+    "price": 15122,
+    "payment_method": "Cash",
+    "total": 15122
+  },
+  {
+    "sales_id": "SO-1006",
+    "date": "2025-01-07",
+    "customer_name": "Eka",
+    "product": "Espresso",
+    "qty": 3,
+    "price": 28030,
+    "payment_method": "E-Wallet",
+    "total": 84090
+  },
+  {
+    "sales_id": "SO-1007",
+    "date": "2025-01-08",
+    "customer_name": "Eka",
+    "product": "Latte",
+    "qty": 5,
+    "price": 27302,
+    "payment_method": "Cash",
+    "total": 136510
+  },
+  {
+    "sales_id": "SO-1008",
+    "date": "2025-01-09",
+    "customer_name": "Gilang",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 29181,
+    "payment_method": "Transfer",
+    "total": 87543
+  },
+  {
+    "sales_id": "SO-1009",
+    "date": "2025-01-10",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 1,
+    "price": 48638,
+    "payment_method": "Transfer",
+    "total": 48638
+  },
+  {
+    "sales_id": "SO-1010",
+    "date": "2025-01-11",
+    "customer_name": "Citra",
+    "product": "Cappuccino",
+    "qty": 1,
+    "price": 11531,
+    "payment_method": "Transfer",
+    "total": 11531
+  },
+  {
+    "sales_id": "SO-1011",
+    "date": "2025-01-12",
+    "customer_name": "Gilang",
+    "product": "Cappuccino",
+    "qty": 8,
+    "price": 33333,
+    "payment_method": "E-Wallet",
+    "total": 266664
+  },
+  {
+    "sales_id": "SO-1012",
+    "date": "2025-01-13",
+    "customer_name": "Citra",
+    "product": "Chocolate Drink",
+    "qty": 2,
+    "price": 49650,
+    "payment_method": "Credit Card",
+    "total": 99300
+  },
+  {
+    "sales_id": "SO-1013",
+    "date": "2025-01-14",
+    "customer_name": "Citra",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 44674,
+    "payment_method": "Credit Card",
+    "total": 134022
+  },
+  {
+    "sales_id": "SO-1014",
+    "date": "2025-01-15",
+    "customer_name": "Hani",
+    "product": "Matcha",
+    "qty": 2,
+    "price": 45854,
+    "payment_method": "Transfer",
+    "total": 91708
+  },
+  {
+    "sales_id": "SO-1015",
+    "date": "2025-01-16",
+    "customer_name": "Eka",
+    "product": "Espresso",
+    "qty": 3,
+    "price": 18152,
+    "payment_method": "Credit Card",
+    "total": 54456
+  },
+  {
+    "sales_id": "SO-1016",
+    "date": "2025-01-17",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 7,
+    "price": 48518,
+    "payment_method": "Credit Card",
+    "total": 339626
+  },
+  {
+    "sales_id": "SO-1017",
+    "date": "2025-01-18",
+    "customer_name": "Hani",
+    "product": "Mocha",
+    "qty": 1,
+    "price": 20267,
+    "payment_method": "E-Wallet",
+    "total": 20267
+  },
+  {
+    "sales_id": "SO-1018",
+    "date": "2025-01-19",
+    "customer_name": "Hani",
+    "product": "Mocha",
+    "qty": 8,
+    "price": 35289,
+    "payment_method": "Cash",
+    "total": 282312
+  },
+  {
+    "sales_id": "SO-1019",
+    "date": "2025-01-20",
+    "customer_name": "Citra",
+    "product": "Cappuccino",
+    "qty": 2,
+    "price": 11062,
+    "payment_method": "Transfer",
+    "total": 22124
+  },
+  {
+    "sales_id": "SO-1020",
+    "date": "2025-01-21",
+    "customer_name": "Fajar",
+    "product": "Chocolate Drink",
+    "qty": 3,
+    "price": 39926,
+    "payment_method": "Transfer",
+    "total": 119778
+  },
+  {
+    "sales_id": "SO-1021",
+    "date": "2025-01-22",
+    "customer_name": "Eka",
+    "product": "Chocolate Drink",
+    "qty": 9,
+    "price": 16229,
+    "payment_method": "E-Wallet",
+    "total": 146061
+  },
+  {
+    "sales_id": "SO-1022",
+    "date": "2025-01-23",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 7,
+    "price": 14632,
+    "payment_method": "E-Wallet",
+    "total": 102424
+  },
+  {
+    "sales_id": "SO-1023",
+    "date": "2025-01-24",
+    "customer_name": "Hani",
+    "product": "Cappuccino",
+    "qty": 4,
+    "price": 49056,
+    "payment_method": "Credit Card",
+    "total": 196224
+  },
+  {
+    "sales_id": "SO-1024",
+    "date": "2025-01-25",
+    "customer_name": "Dewi",
+    "product": "Mocha",
+    "qty": 5,
+    "price": 13596,
+    "payment_method": "Transfer",
+    "total": 67980
+  },
+  {
+    "sales_id": "SO-1025",
+    "date": "2025-01-26",
+    "customer_name": "Fajar",
+    "product": "Matcha",
+    "qty": 2,
+    "price": 16168,
+    "payment_method": "Cash",
+    "total": 32336
+  },
+  {
+    "sales_id": "SO-1026",
+    "date": "2025-01-27",
+    "customer_name": "Fajar",
+    "product": "Cappuccino",
+    "qty": 8,
+    "price": 17561,
+    "payment_method": "E-Wallet",
+    "total": 140488
+  },
+  {
+    "sales_id": "SO-1027",
+    "date": "2025-01-28",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 4,
+    "price": 18258,
+    "payment_method": "Cash",
+    "total": 73032
+  },
+  {
+    "sales_id": "SO-1028",
+    "date": "2025-01-29",
+    "customer_name": "Hani",
+    "product": "Espresso",
+    "qty": 9,
+    "price": 26616,
+    "payment_method": "Cash",
+    "total": 239544
+  },
+  {
+    "sales_id": "SO-1029",
+    "date": "2025-01-30",
+    "customer_name": "Dewi",
+    "product": "Cappuccino",
+    "qty": 5,
+    "price": 36734,
+    "payment_method": "Transfer",
+    "total": 183670
+  },
+  {
+    "sales_id": "SO-1030",
+    "date": "2025-01-31",
+    "customer_name": "Eka",
+    "product": "Espresso",
+    "qty": 9,
+    "price": 16371,
+    "payment_method": "Transfer",
+    "total": 147339
+  },
+  {
+    "sales_id": "SO-1031",
+    "date": "2025-02-01",
+    "customer_name": "Andi",
+    "product": "Cappuccino",
+    "qty": 4,
+    "price": 36069,
+    "payment_method": "E-Wallet",
+    "total": 144276
+  },
+  {
+    "sales_id": "SO-1032",
+    "date": "2025-02-02",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 5,
+    "price": 24369,
+    "payment_method": "Transfer",
+    "total": 121845
+  },
+  {
+    "sales_id": "SO-1033",
+    "date": "2025-02-03",
+    "customer_name": "Budi",
+    "product": "Cappuccino",
+    "qty": 9,
+    "price": 22910,
+    "payment_method": "Transfer",
+    "total": 206190
+  },
+  {
+    "sales_id": "SO-1034",
+    "date": "2025-02-04",
+    "customer_name": "Fajar",
+    "product": "Cappuccino",
+    "qty": 8,
+    "price": 17943,
+    "payment_method": "Transfer",
+    "total": 143544
+  },
+  {
+    "sales_id": "SO-1035",
+    "date": "2025-02-05",
+    "customer_name": "Eka",
+    "product": "Espresso",
+    "qty": 3,
+    "price": 22199,
+    "payment_method": "Cash",
+    "total": 66597
+  },
+  {
+    "sales_id": "SO-1036",
+    "date": "2025-02-06",
+    "customer_name": "Dewi",
+    "product": "Espresso",
+    "qty": 1,
+    "price": 25728,
+    "payment_method": "E-Wallet",
+    "total": 25728
+  },
+  {
+    "sales_id": "SO-1037",
+    "date": "2025-02-07",
+    "customer_name": "Andi",
+    "product": "Chocolate Drink",
+    "qty": 3,
+    "price": 33275,
+    "payment_method": "Credit Card",
+    "total": 99825
+  },
+  {
+    "sales_id": "SO-1038",
+    "date": "2025-02-08",
+    "customer_name": "Andi",
+    "product": "Chocolate Drink",
+    "qty": 4,
+    "price": 16738,
+    "payment_method": "Cash",
+    "total": 66952
+  },
+  {
+    "sales_id": "SO-1039",
+    "date": "2025-02-09",
+    "customer_name": "Citra",
+    "product": "Latte",
+    "qty": 2,
+    "price": 25913,
+    "payment_method": "Transfer",
+    "total": 51826
+  },
+  {
+    "sales_id": "SO-1040",
+    "date": "2025-02-10",
+    "customer_name": "Citra",
+    "product": "Chocolate Drink",
+    "qty": 1,
+    "price": 45240,
+    "payment_method": "Cash",
+    "total": 45240
+  },
+  {
+    "sales_id": "SO-1041",
+    "date": "2025-02-11",
+    "customer_name": "Gilang",
+    "product": "Cappuccino",
+    "qty": 7,
+    "price": 29123,
+    "payment_method": "Transfer",
+    "total": 203861
+  },
+  {
+    "sales_id": "SO-1042",
+    "date": "2025-02-12",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 8,
+    "price": 44529,
+    "payment_method": "Transfer",
+    "total": 356232
+  },
+  {
+    "sales_id": "SO-1043",
+    "date": "2025-02-13",
+    "customer_name": "Hani",
+    "product": "Chocolate Drink",
+    "qty": 7,
+    "price": 20167,
+    "payment_method": "Cash",
+    "total": 141169
+  },
+  {
+    "sales_id": "SO-1044",
+    "date": "2025-02-14",
+    "customer_name": "Dewi",
+    "product": "Chocolate Drink",
+    "qty": 5,
+    "price": 20554,
+    "payment_method": "E-Wallet",
+    "total": 102770
+  },
+  {
+    "sales_id": "SO-1045",
+    "date": "2025-02-15",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 1,
+    "price": 27260,
+    "payment_method": "Transfer",
+    "total": 27260
+  },
+  {
+    "sales_id": "SO-1046",
+    "date": "2025-02-16",
+    "customer_name": "Hani",
+    "product": "Mocha",
+    "qty": 7,
+    "price": 13812,
+    "payment_method": "E-Wallet",
+    "total": 96684
+  },
+  {
+    "sales_id": "SO-1047",
+    "date": "2025-02-17",
+    "customer_name": "Gilang",
+    "product": "Latte",
+    "qty": 7,
+    "price": 38024,
+    "payment_method": "Credit Card",
+    "total": 266168
+  },
+  {
+    "sales_id": "SO-1048",
+    "date": "2025-02-18",
+    "customer_name": "Fajar",
+    "product": "Cappuccino",
+    "qty": 9,
+    "price": 37285,
+    "payment_method": "Transfer",
+    "total": 335565
+  },
+  {
+    "sales_id": "SO-1049",
+    "date": "2025-02-19",
+    "customer_name": "Fajar",
+    "product": "Espresso",
+    "qty": 3,
+    "price": 36900,
+    "payment_method": "E-Wallet",
+    "total": 110700
+  },
+  {
+    "sales_id": "SO-1050",
+    "date": "2025-02-20",
+    "customer_name": "Gilang",
+    "product": "Latte",
+    "qty": 9,
+    "price": 11605,
+    "payment_method": "E-Wallet",
+    "total": 104445
+  },
+  {
+    "sales_id": "SO-1051",
+    "date": "2025-02-21",
+    "customer_name": "Fajar",
+    "product": "Chocolate Drink",
+    "qty": 1,
+    "price": 15622,
+    "payment_method": "Credit Card",
+    "total": 15622
+  },
+  {
+    "sales_id": "SO-1052",
+    "date": "2025-02-22",
+    "customer_name": "Citra",
+    "product": "Espresso",
+    "qty": 1,
+    "price": 16767,
+    "payment_method": "E-Wallet",
+    "total": 16767
+  },
+  {
+    "sales_id": "SO-1053",
+    "date": "2025-02-23",
+    "customer_name": "Dewi",
+    "product": "Espresso",
+    "qty": 4,
+    "price": 37139,
+    "payment_method": "E-Wallet",
+    "total": 148556
+  },
+  {
+    "sales_id": "SO-1054",
+    "date": "2025-02-24",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 9,
+    "price": 21613,
+    "payment_method": "Credit Card",
+    "total": 194517
+  },
+  {
+    "sales_id": "SO-1055",
+    "date": "2025-02-25",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 6,
+    "price": 20589,
+    "payment_method": "Transfer",
+    "total": 123534
+  },
+  {
+    "sales_id": "SO-1056",
+    "date": "2025-02-26",
+    "customer_name": "Hani",
+    "product": "Chocolate Drink",
+    "qty": 3,
+    "price": 23918,
+    "payment_method": "E-Wallet",
+    "total": 71754
+  },
+  {
+    "sales_id": "SO-1057",
+    "date": "2025-02-27",
+    "customer_name": "Andi",
+    "product": "Mocha",
+    "qty": 1,
+    "price": 30119,
+    "payment_method": "E-Wallet",
+    "total": 30119
+  },
+  {
+    "sales_id": "SO-1058",
+    "date": "2025-02-28",
+    "customer_name": "Citra",
+    "product": "Espresso",
+    "qty": 4,
+    "price": 37446,
+    "payment_method": "E-Wallet",
+    "total": 149784
+  },
+  {
+    "sales_id": "SO-1059",
+    "date": "2025-03-01",
+    "customer_name": "Eka",
+    "product": "Matcha",
+    "qty": 9,
+    "price": 23046,
+    "payment_method": "Cash",
+    "total": 207414
+  },
+  {
+    "sales_id": "SO-1060",
+    "date": "2025-03-02",
+    "customer_name": "Citra",
+    "product": "Matcha",
+    "qty": 3,
+    "price": 34818,
+    "payment_method": "Credit Card",
+    "total": 104454
+  },
+  {
+    "sales_id": "SO-1061",
+    "date": "2025-03-03",
+    "customer_name": "Gilang",
+    "product": "Cappuccino",
+    "qty": 9,
+    "price": 45358,
+    "payment_method": "Cash",
+    "total": 408222
+  },
+  {
+    "sales_id": "SO-1062",
+    "date": "2025-03-04",
+    "customer_name": "Eka",
+    "product": "Chocolate Drink",
+    "qty": 7,
+    "price": 14324,
+    "payment_method": "Credit Card",
+    "total": 100268
+  },
+  {
+    "sales_id": "SO-1063",
+    "date": "2025-03-05",
+    "customer_name": "Andi",
+    "product": "Chocolate Drink",
+    "qty": 4,
+    "price": 20787,
+    "payment_method": "Transfer",
+    "total": 83148
+  },
+  {
+    "sales_id": "SO-1064",
+    "date": "2025-03-06",
+    "customer_name": "Gilang",
+    "product": "Cappuccino",
+    "qty": 3,
+    "price": 19111,
+    "payment_method": "Transfer",
+    "total": 57333
+  },
+  {
+    "sales_id": "SO-1065",
+    "date": "2025-03-07",
+    "customer_name": "Budi",
+    "product": "Cappuccino",
+    "qty": 5,
+    "price": 48110,
+    "payment_method": "E-Wallet",
+    "total": 240550
+  },
+  {
+    "sales_id": "SO-1066",
+    "date": "2025-03-08",
+    "customer_name": "Dewi",
+    "product": "Cappuccino",
+    "qty": 5,
+    "price": 26389,
+    "payment_method": "Credit Card",
+    "total": 131945
+  },
+  {
+    "sales_id": "SO-1067",
+    "date": "2025-03-09",
+    "customer_name": "Andi",
+    "product": "Espresso",
+    "qty": 3,
+    "price": 24043,
+    "payment_method": "Transfer",
+    "total": 72129
+  },
+  {
+    "sales_id": "SO-1068",
+    "date": "2025-03-10",
+    "customer_name": "Dewi",
+    "product": "Mocha",
+    "qty": 9,
+    "price": 38746,
+    "payment_method": "Credit Card",
+    "total": 348714
+  },
+  {
+    "sales_id": "SO-1069",
+    "date": "2025-03-11",
+    "customer_name": "Fajar",
+    "product": "Chocolate Drink",
+    "qty": 4,
+    "price": 32350,
+    "payment_method": "Transfer",
+    "total": 129400
+  },
+  {
+    "sales_id": "SO-1070",
+    "date": "2025-03-12",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 5,
+    "price": 10117,
+    "payment_method": "Cash",
+    "total": 50585
+  },
+  {
+    "sales_id": "SO-1071",
+    "date": "2025-03-13",
+    "customer_name": "Budi",
+    "product": "Cappuccino",
+    "qty": 4,
+    "price": 28935,
+    "payment_method": "Transfer",
+    "total": 115740
+  },
+  {
+    "sales_id": "SO-1072",
+    "date": "2025-03-14",
+    "customer_name": "Andi",
+    "product": "Chocolate Drink",
+    "qty": 5,
+    "price": 23234,
+    "payment_method": "Cash",
+    "total": 116170
+  },
+  {
+    "sales_id": "SO-1073",
+    "date": "2025-03-15",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 7,
+    "price": 48328,
+    "payment_method": "Transfer",
+    "total": 338296
+  },
+  {
+    "sales_id": "SO-1074",
+    "date": "2025-03-16",
+    "customer_name": "Eka",
+    "product": "Mocha",
+    "qty": 9,
+    "price": 10846,
+    "payment_method": "E-Wallet",
+    "total": 97614
+  },
+  {
+    "sales_id": "SO-1075",
+    "date": "2025-03-17",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 7,
+    "price": 20954,
+    "payment_method": "Cash",
+    "total": 146678
+  },
+  {
+    "sales_id": "SO-1076",
+    "date": "2025-03-18",
+    "customer_name": "Dewi",
+    "product": "Mocha",
+    "qty": 5,
+    "price": 23703,
+    "payment_method": "Transfer",
+    "total": 118515
+  },
+  {
+    "sales_id": "SO-1077",
+    "date": "2025-03-19",
+    "customer_name": "Dewi",
+    "product": "Cappuccino",
+    "qty": 7,
+    "price": 32700,
+    "payment_method": "E-Wallet",
+    "total": 228900
+  },
+  {
+    "sales_id": "SO-1078",
+    "date": "2025-03-20",
+    "customer_name": "Gilang",
+    "product": "Mocha",
+    "qty": 5,
+    "price": 42043,
+    "payment_method": "Cash",
+    "total": 210215
+  },
+  {
+    "sales_id": "SO-1079",
+    "date": "2025-03-21",
+    "customer_name": "Dewi",
+    "product": "Chocolate Drink",
+    "qty": 3,
+    "price": 16469,
+    "payment_method": "E-Wallet",
+    "total": 49407
+  },
+  {
+    "sales_id": "SO-1080",
+    "date": "2025-03-22",
+    "customer_name": "Gilang",
+    "product": "Cappuccino",
+    "qty": 7,
+    "price": 40105,
+    "payment_method": "Credit Card",
+    "total": 280735
+  },
+  {
+    "sales_id": "SO-1081",
+    "date": "2025-03-23",
+    "customer_name": "Dewi",
+    "product": "Chocolate Drink",
+    "qty": 2,
+    "price": 36386,
+    "payment_method": "Credit Card",
+    "total": 72772
+  },
+  {
+    "sales_id": "SO-1082",
+    "date": "2025-03-24",
+    "customer_name": "Eka",
+    "product": "Matcha",
+    "qty": 9,
+    "price": 46976,
+    "payment_method": "Cash",
+    "total": 422784
+  },
+  {
+    "sales_id": "SO-1083",
+    "date": "2025-03-25",
+    "customer_name": "Hani",
+    "product": "Latte",
+    "qty": 1,
+    "price": 49051,
+    "payment_method": "Transfer",
+    "total": 49051
+  },
+  {
+    "sales_id": "SO-1084",
+    "date": "2025-03-26",
+    "customer_name": "Gilang",
+    "product": "Mocha",
+    "qty": 6,
+    "price": 12048,
+    "payment_method": "Cash",
+    "total": 72288
+  },
+  {
+    "sales_id": "SO-1085",
+    "date": "2025-03-27",
+    "customer_name": "Citra",
+    "product": "Latte",
+    "qty": 7,
+    "price": 49001,
+    "payment_method": "E-Wallet",
+    "total": 343007
+  },
+  {
+    "sales_id": "SO-1086",
+    "date": "2025-03-28",
+    "customer_name": "Fajar",
+    "product": "Latte",
+    "qty": 8,
+    "price": 22941,
+    "payment_method": "Transfer",
+    "total": 183528
+  },
+  {
+    "sales_id": "SO-1087",
+    "date": "2025-03-29",
+    "customer_name": "Andi",
+    "product": "Mocha",
+    "qty": 9,
+    "price": 11828,
+    "payment_method": "Credit Card",
+    "total": 106452
+  },
+  {
+    "sales_id": "SO-1088",
+    "date": "2025-03-30",
+    "customer_name": "Dewi",
+    "product": "Cappuccino",
+    "qty": 2,
+    "price": 11917,
+    "payment_method": "Transfer",
+    "total": 23834
+  },
+  {
+    "sales_id": "SO-1089",
+    "date": "2025-03-31",
+    "customer_name": "Budi",
+    "product": "Matcha",
+    "qty": 2,
+    "price": 30618,
+    "payment_method": "Credit Card",
+    "total": 61236
+  },
+  {
+    "sales_id": "SO-1090",
+    "date": "2025-04-01",
+    "customer_name": "Hani",
+    "product": "Chocolate Drink",
+    "qty": 5,
+    "price": 42254,
+    "payment_method": "Transfer",
+    "total": 211270
+  },
+  {
+    "sales_id": "SO-1091",
+    "date": "2025-04-02",
+    "customer_name": "Dewi",
+    "product": "Espresso",
+    "qty": 5,
+    "price": 49756,
+    "payment_method": "Transfer",
+    "total": 248780
+  },
+  {
+    "sales_id": "SO-1092",
+    "date": "2025-04-03",
+    "customer_name": "Budi",
+    "product": "Chocolate Drink",
+    "qty": 6,
+    "price": 30128,
+    "payment_method": "Transfer",
+    "total": 180768
+  },
+  {
+    "sales_id": "SO-1093",
+    "date": "2025-04-04",
+    "customer_name": "Fajar",
+    "product": "Espresso",
+    "qty": 3,
+    "price": 10009,
+    "payment_method": "E-Wallet",
+    "total": 30027
+  },
+  {
+    "sales_id": "SO-1094",
+    "date": "2025-04-05",
+    "customer_name": "Fajar",
+    "product": "Chocolate Drink",
+    "qty": 8,
+    "price": 26644,
+    "payment_method": "E-Wallet",
+    "total": 213152
+  },
+  {
+    "sales_id": "SO-1095",
+    "date": "2025-04-06",
+    "customer_name": "Fajar",
+    "product": "Mocha",
+    "qty": 1,
+    "price": 32422,
+    "payment_method": "Cash",
+    "total": 32422
+  },
+  {
+    "sales_id": "SO-1096",
+    "date": "2025-04-07",
+    "customer_name": "Budi",
+    "product": "Matcha",
+    "qty": 6,
+    "price": 19865,
+    "payment_method": "Cash",
+    "total": 119190
+  },
+  {
+    "sales_id": "SO-1097",
+    "date": "2025-04-08",
+    "customer_name": "Dewi",
+    "product": "Espresso",
+    "qty": 4,
+    "price": 12219,
+    "payment_method": "Credit Card",
+    "total": 48876
+  },
+  {
+    "sales_id": "SO-1098",
+    "date": "2025-04-09",
+    "customer_name": "Fajar",
+    "product": "Cappuccino",
+    "qty": 1,
+    "price": 49809,
+    "payment_method": "E-Wallet",
+    "total": 49809
+  },
+  {
+    "sales_id": "SO-1099",
+    "date": "2025-04-10",
+    "customer_name": "Eka",
+    "product": "Chocolate Drink",
+    "qty": 7,
+    "price": 15287,
+    "payment_method": "Credit Card",
+    "total": 107009
+  },
+  {
+    "sales_id": "SO-1100",
+    "date": "2025-04-11",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 9,
+    "price": 44387,
+    "payment_method": "Cash",
+    "total": 399483
+  },
+  {
+    "sales_id": "SO-1101",
+    "date": "2025-04-12",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 4,
+    "price": 18512,
+    "payment_method": "Credit Card",
+    "total": 74048
+  },
+  {
+    "sales_id": "SO-1102",
+    "date": "2025-04-13",
+    "customer_name": "Budi",
+    "product": "Cappuccino",
+    "qty": 4,
+    "price": 11342,
+    "payment_method": "Cash",
+    "total": 45368
+  },
+  {
+    "sales_id": "SO-1103",
+    "date": "2025-04-14",
+    "customer_name": "Dewi",
+    "product": "Cappuccino",
+    "qty": 6,
+    "price": 29216,
+    "payment_method": "E-Wallet",
+    "total": 175296
+  },
+  {
+    "sales_id": "SO-1104",
+    "date": "2025-04-15",
+    "customer_name": "Budi",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 37534,
+    "payment_method": "Transfer",
+    "total": 112602
+  },
+  {
+    "sales_id": "SO-1105",
+    "date": "2025-04-16",
+    "customer_name": "Budi",
+    "product": "Mocha",
+    "qty": 6,
+    "price": 24231,
+    "payment_method": "E-Wallet",
+    "total": 145386
+  },
+  {
+    "sales_id": "SO-1106",
+    "date": "2025-04-17",
+    "customer_name": "Fajar",
+    "product": "Mocha",
+    "qty": 7,
+    "price": 42293,
+    "payment_method": "Credit Card",
+    "total": 296051
+  },
+  {
+    "sales_id": "SO-1107",
+    "date": "2025-04-18",
+    "customer_name": "Dewi",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 36614,
+    "payment_method": "Credit Card",
+    "total": 109842
+  },
+  {
+    "sales_id": "SO-1108",
+    "date": "2025-04-19",
+    "customer_name": "Fajar",
+    "product": "Mocha",
+    "qty": 7,
+    "price": 46258,
+    "payment_method": "E-Wallet",
+    "total": 323806
+  },
+  {
+    "sales_id": "SO-1109",
+    "date": "2025-04-20",
+    "customer_name": "Gilang",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 38253,
+    "payment_method": "E-Wallet",
+    "total": 114759
+  },
+  {
+    "sales_id": "SO-1110",
+    "date": "2025-04-21",
+    "customer_name": "Hani",
+    "product": "Matcha",
+    "qty": 2,
+    "price": 27988,
+    "payment_method": "Cash",
+    "total": 55976
+  },
+  {
+    "sales_id": "SO-1111",
+    "date": "2025-04-22",
+    "customer_name": "Gilang",
+    "product": "Cappuccino",
+    "qty": 4,
+    "price": 41037,
+    "payment_method": "Credit Card",
+    "total": 164148
+  },
+  {
+    "sales_id": "SO-1112",
+    "date": "2025-04-23",
+    "customer_name": "Hani",
+    "product": "Mocha",
+    "qty": 8,
+    "price": 22219,
+    "payment_method": "Credit Card",
+    "total": 177752
+  },
+  {
+    "sales_id": "SO-1113",
+    "date": "2025-04-24",
+    "customer_name": "Fajar",
+    "product": "Cappuccino",
+    "qty": 9,
+    "price": 10235,
+    "payment_method": "E-Wallet",
+    "total": 92115
+  },
+  {
+    "sales_id": "SO-1114",
+    "date": "2025-04-25",
+    "customer_name": "Gilang",
+    "product": "Cappuccino",
+    "qty": 7,
+    "price": 11908,
+    "payment_method": "Transfer",
+    "total": 83356
+  },
+  {
+    "sales_id": "SO-1115",
+    "date": "2025-04-26",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 1,
+    "price": 18567,
+    "payment_method": "Credit Card",
+    "total": 18567
+  },
+  {
+    "sales_id": "SO-1116",
+    "date": "2025-04-27",
+    "customer_name": "Andi",
+    "product": "Matcha",
+    "qty": 3,
+    "price": 46298,
+    "payment_method": "Transfer",
+    "total": 138894
+  },
+  {
+    "sales_id": "SO-1117",
+    "date": "2025-04-28",
+    "customer_name": "Fajar",
+    "product": "Mocha",
+    "qty": 9,
+    "price": 15256,
+    "payment_method": "E-Wallet",
+    "total": 137304
+  },
+  {
+    "sales_id": "SO-1118",
+    "date": "2025-04-29",
+    "customer_name": "Hani",
+    "product": "Chocolate Drink",
+    "qty": 1,
+    "price": 29019,
+    "payment_method": "E-Wallet",
+    "total": 29019
+  },
+  {
+    "sales_id": "SO-1119",
+    "date": "2025-04-30",
+    "customer_name": "Eka",
+    "product": "Espresso",
+    "qty": 9,
+    "price": 18162,
+    "payment_method": "Cash",
+    "total": 163458
+  },
+  {
+    "sales_id": "SO-1120",
+    "date": "2025-05-01",
+    "customer_name": "Hani",
+    "product": "Chocolate Drink",
+    "qty": 8,
+    "price": 15415,
+    "payment_method": "Credit Card",
+    "total": 123320
+  },
+  {
+    "sales_id": "SO-1121",
+    "date": "2025-05-02",
+    "customer_name": "Eka",
+    "product": "Matcha",
+    "qty": 1,
+    "price": 46159,
+    "payment_method": "Transfer",
+    "total": 46159
+  },
+  {
+    "sales_id": "SO-1122",
+    "date": "2025-05-03",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 6,
+    "price": 15951,
+    "payment_method": "Cash",
+    "total": 95706
+  },
+  {
+    "sales_id": "SO-1123",
+    "date": "2025-05-04",
+    "customer_name": "Gilang",
+    "product": "Matcha",
+    "qty": 5,
+    "price": 31852,
+    "payment_method": "Credit Card",
+    "total": 159260
+  },
+  {
+    "sales_id": "SO-1124",
+    "date": "2025-05-05",
+    "customer_name": "Eka",
+    "product": "Cappuccino",
+    "qty": 6,
+    "price": 18007,
+    "payment_method": "Cash",
+    "total": 108042
+  },
+  {
+    "sales_id": "SO-1125",
+    "date": "2025-05-06",
+    "customer_name": "Hani",
+    "product": "Espresso",
+    "qty": 5,
+    "price": 40523,
+    "payment_method": "E-Wallet",
+    "total": 202615
+  },
+  {
+    "sales_id": "SO-1126",
+    "date": "2025-05-07",
+    "customer_name": "Budi",
+    "product": "Cappuccino",
+    "qty": 6,
+    "price": 33325,
+    "payment_method": "Credit Card",
+    "total": 199950
+  },
+  {
+    "sales_id": "SO-1127",
+    "date": "2025-05-08",
+    "customer_name": "Andi",
+    "product": "Chocolate Drink",
+    "qty": 5,
+    "price": 31204,
+    "payment_method": "Cash",
+    "total": 156020
+  },
+  {
+    "sales_id": "SO-1128",
+    "date": "2025-05-09",
+    "customer_name": "Dewi",
+    "product": "Chocolate Drink",
+    "qty": 5,
+    "price": 25524,
+    "payment_method": "Cash",
+    "total": 127620
+  },
+  {
+    "sales_id": "SO-1129",
+    "date": "2025-05-10",
+    "customer_name": "Dewi",
+    "product": "Espresso",
+    "qty": 4,
+    "price": 29282,
+    "payment_method": "Transfer",
+    "total": 117128
+  },
+  {
+    "sales_id": "SO-1130",
+    "date": "2025-05-11",
+    "customer_name": "Dewi",
+    "product": "Espresso",
+    "qty": 3,
+    "price": 33930,
+    "payment_method": "Cash",
+    "total": 101790
+  },
+  {
+    "sales_id": "SO-1131",
+    "date": "2025-05-12",
+    "customer_name": "Eka",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 10077,
+    "payment_method": "Credit Card",
+    "total": 30231
+  },
+  {
+    "sales_id": "SO-1132",
+    "date": "2025-05-13",
+    "customer_name": "Andi",
+    "product": "Matcha",
+    "qty": 4,
+    "price": 30611,
+    "payment_method": "Credit Card",
+    "total": 122444
+  },
+  {
+    "sales_id": "SO-1133",
+    "date": "2025-05-14",
+    "customer_name": "Eka",
+    "product": "Mocha",
+    "qty": 9,
+    "price": 26984,
+    "payment_method": "Transfer",
+    "total": 242856
+  },
+  {
+    "sales_id": "SO-1134",
+    "date": "2025-05-15",
+    "customer_name": "Gilang",
+    "product": "Matcha",
+    "qty": 2,
+    "price": 24060,
+    "payment_method": "Credit Card",
+    "total": 48120
+  },
+  {
+    "sales_id": "SO-1135",
+    "date": "2025-05-16",
+    "customer_name": "Eka",
+    "product": "Mocha",
+    "qty": 9,
+    "price": 27449,
+    "payment_method": "E-Wallet",
+    "total": 247041
+  },
+  {
+    "sales_id": "SO-1136",
+    "date": "2025-05-17",
+    "customer_name": "Andi",
+    "product": "Cappuccino",
+    "qty": 1,
+    "price": 28520,
+    "payment_method": "Credit Card",
+    "total": 28520
+  },
+  {
+    "sales_id": "SO-1137",
+    "date": "2025-05-18",
+    "customer_name": "Andi",
+    "product": "Espresso",
+    "qty": 1,
+    "price": 19510,
+    "payment_method": "Credit Card",
+    "total": 19510
+  },
+  {
+    "sales_id": "SO-1138",
+    "date": "2025-05-19",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 5,
+    "price": 39287,
+    "payment_method": "Cash",
+    "total": 196435
+  },
+  {
+    "sales_id": "SO-1139",
+    "date": "2025-05-20",
+    "customer_name": "Andi",
+    "product": "Matcha",
+    "qty": 6,
+    "price": 38173,
+    "payment_method": "Cash",
+    "total": 229038
+  },
+  {
+    "sales_id": "SO-1140",
+    "date": "2025-05-21",
+    "customer_name": "Hani",
+    "product": "Matcha",
+    "qty": 6,
+    "price": 49711,
+    "payment_method": "Credit Card",
+    "total": 298266
+  },
+  {
+    "sales_id": "SO-1141",
+    "date": "2025-05-22",
+    "customer_name": "Andi",
+    "product": "Chocolate Drink",
+    "qty": 3,
+    "price": 21954,
+    "payment_method": "Transfer",
+    "total": 65862
+  },
+  {
+    "sales_id": "SO-1142",
+    "date": "2025-05-23",
+    "customer_name": "Dewi",
+    "product": "Mocha",
+    "qty": 7,
+    "price": 17804,
+    "payment_method": "Cash",
+    "total": 124628
+  },
+  {
+    "sales_id": "SO-1143",
+    "date": "2025-05-24",
+    "customer_name": "Hani",
+    "product": "Matcha",
+    "qty": 9,
+    "price": 16565,
+    "payment_method": "Transfer",
+    "total": 149085
+  },
+  {
+    "sales_id": "SO-1144",
+    "date": "2025-05-25",
+    "customer_name": "Hani",
+    "product": "Cappuccino",
+    "qty": 8,
+    "price": 15984,
+    "payment_method": "Credit Card",
+    "total": 127872
+  },
+  {
+    "sales_id": "SO-1145",
+    "date": "2025-05-26",
+    "customer_name": "Gilang",
+    "product": "Espresso",
+    "qty": 6,
+    "price": 31526,
+    "payment_method": "Credit Card",
+    "total": 189156
+  },
+  {
+    "sales_id": "SO-1146",
+    "date": "2025-05-27",
+    "customer_name": "Citra",
+    "product": "Chocolate Drink",
+    "qty": 8,
+    "price": 47438,
+    "payment_method": "E-Wallet",
+    "total": 379504
+  },
+  {
+    "sales_id": "SO-1147",
+    "date": "2025-05-28",
+    "customer_name": "Citra",
+    "product": "Espresso",
+    "qty": 5,
+    "price": 28574,
+    "payment_method": "Cash",
+    "total": 142870
+  },
+  {
+    "sales_id": "SO-1148",
+    "date": "2025-05-29",
+    "customer_name": "Andi",
+    "product": "Matcha",
+    "qty": 8,
+    "price": 19184,
+    "payment_method": "Credit Card",
+    "total": 153472
+  },
+  {
+    "sales_id": "SO-1149",
+    "date": "2025-05-30",
+    "customer_name": "Hani",
+    "product": "Matcha",
+    "qty": 4,
+    "price": 29096,
+    "payment_method": "E-Wallet",
+    "total": 116384
+  },
+  {
+    "sales_id": "SO-1150",
+    "date": "2025-05-31",
+    "customer_name": "Citra",
+    "product": "Chocolate Drink",
+    "qty": 8,
+    "price": 12192,
+    "payment_method": "Cash",
+    "total": 97536
+  },
+  {
+    "sales_id": "SO-1151",
+    "date": "2025-06-01",
+    "customer_name": "Citra",
+    "product": "Cappuccino",
+    "qty": 2,
+    "price": 44016,
+    "payment_method": "Credit Card",
+    "total": 88032
+  },
+  {
+    "sales_id": "SO-1152",
+    "date": "2025-06-02",
+    "customer_name": "Andi",
+    "product": "Latte",
+    "qty": 5,
+    "price": 21246,
+    "payment_method": "Credit Card",
+    "total": 106230
+  },
+  {
+    "sales_id": "SO-1153",
+    "date": "2025-06-03",
+    "customer_name": "Citra",
+    "product": "Chocolate Drink",
+    "qty": 9,
+    "price": 28381,
+    "payment_method": "Cash",
+    "total": 255429
+  },
+  {
+    "sales_id": "SO-1154",
+    "date": "2025-06-04",
+    "customer_name": "Eka",
+    "product": "Latte",
+    "qty": 4,
+    "price": 46455,
+    "payment_method": "Cash",
+    "total": 185820
+  },
+  {
+    "sales_id": "SO-1155",
+    "date": "2025-06-05",
+    "customer_name": "Budi",
+    "product": "Mocha",
+    "qty": 6,
+    "price": 36727,
+    "payment_method": "Cash",
+    "total": 220362
+  },
+  {
+    "sales_id": "SO-1156",
+    "date": "2025-06-06",
+    "customer_name": "Gilang",
+    "product": "Latte",
+    "qty": 1,
+    "price": 14018,
+    "payment_method": "Credit Card",
+    "total": 14018
+  },
+  {
+    "sales_id": "SO-1157",
+    "date": "2025-06-07",
+    "customer_name": "Budi",
+    "product": "Cappuccino",
+    "qty": 9,
+    "price": 21302,
+    "payment_method": "Credit Card",
+    "total": 191718
+  },
+  {
+    "sales_id": "SO-1158",
+    "date": "2025-06-08",
+    "customer_name": "Andi",
+    "product": "Mocha",
+    "qty": 1,
+    "price": 11970,
+    "payment_method": "E-Wallet",
+    "total": 11970
+  },
+  {
+    "sales_id": "SO-1159",
+    "date": "2025-06-09",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 5,
+    "price": 37202,
+    "payment_method": "Transfer",
+    "total": 186010
+  },
+  {
+    "sales_id": "SO-1160",
+    "date": "2025-06-10",
+    "customer_name": "Gilang",
+    "product": "Mocha",
+    "qty": 4,
+    "price": 41110,
+    "payment_method": "Cash",
+    "total": 164440
+  },
+  {
+    "sales_id": "SO-1161",
+    "date": "2025-06-11",
+    "customer_name": "Andi",
+    "product": "Latte",
+    "qty": 3,
+    "price": 27586,
+    "payment_method": "Credit Card",
+    "total": 82758
+  },
+  {
+    "sales_id": "SO-1162",
+    "date": "2025-06-12",
+    "customer_name": "Hani",
+    "product": "Cappuccino",
+    "qty": 6,
+    "price": 34519,
+    "payment_method": "Credit Card",
+    "total": 207114
+  },
+  {
+    "sales_id": "SO-1163",
+    "date": "2025-06-13",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 2,
+    "price": 41273,
+    "payment_method": "Cash",
+    "total": 82546
+  },
+  {
+    "sales_id": "SO-1164",
+    "date": "2025-06-14",
+    "customer_name": "Budi",
+    "product": "Latte",
+    "qty": 3,
+    "price": 31951,
+    "payment_method": "Transfer",
+    "total": 95853
+  },
+  {
+    "sales_id": "SO-1165",
+    "date": "2025-06-15",
+    "customer_name": "Andi",
+    "product": "Latte",
+    "qty": 5,
+    "price": 25374,
+    "payment_method": "Cash",
+    "total": 126870
+  },
+  {
+    "sales_id": "SO-1166",
+    "date": "2025-06-16",
+    "customer_name": "Hani",
+    "product": "Chocolate Drink",
+    "qty": 9,
+    "price": 15788,
+    "payment_method": "Transfer",
+    "total": 142092
+  },
+  {
+    "sales_id": "SO-1167",
+    "date": "2025-06-17",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 2,
+    "price": 15408,
+    "payment_method": "Credit Card",
+    "total": 30816
+  },
+  {
+    "sales_id": "SO-1168",
+    "date": "2025-06-18",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 8,
+    "price": 35053,
+    "payment_method": "Transfer",
+    "total": 280424
+  },
+  {
+    "sales_id": "SO-1169",
+    "date": "2025-06-19",
+    "customer_name": "Fajar",
+    "product": "Cappuccino",
+    "qty": 2,
+    "price": 19446,
+    "payment_method": "E-Wallet",
+    "total": 38892
+  },
+  {
+    "sales_id": "SO-1170",
+    "date": "2025-06-20",
+    "customer_name": "Hani",
+    "product": "Mocha",
+    "qty": 5,
+    "price": 10922,
+    "payment_method": "Credit Card",
+    "total": 54610
+  },
+  {
+    "sales_id": "SO-1171",
+    "date": "2025-06-21",
+    "customer_name": "Eka",
+    "product": "Matcha",
+    "qty": 7,
+    "price": 43187,
+    "payment_method": "E-Wallet",
+    "total": 302309
+  },
+  {
+    "sales_id": "SO-1172",
+    "date": "2025-06-22",
+    "customer_name": "Citra",
+    "product": "Latte",
+    "qty": 8,
+    "price": 20789,
+    "payment_method": "Cash",
+    "total": 166312
+  },
+  {
+    "sales_id": "SO-1173",
+    "date": "2025-06-23",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 1,
+    "price": 42184,
+    "payment_method": "Cash",
+    "total": 42184
+  },
+  {
+    "sales_id": "SO-1174",
+    "date": "2025-06-24",
+    "customer_name": "Hani",
+    "product": "Cappuccino",
+    "qty": 6,
+    "price": 11120,
+    "payment_method": "Cash",
+    "total": 66720
+  },
+  {
+    "sales_id": "SO-1175",
+    "date": "2025-06-25",
+    "customer_name": "Fajar",
+    "product": "Latte",
+    "qty": 1,
+    "price": 42154,
+    "payment_method": "Transfer",
+    "total": 42154
+  },
+  {
+    "sales_id": "SO-1176",
+    "date": "2025-06-26",
+    "customer_name": "Citra",
+    "product": "Chocolate Drink",
+    "qty": 2,
+    "price": 27334,
+    "payment_method": "Credit Card",
+    "total": 54668
+  },
+  {
+    "sales_id": "SO-1177",
+    "date": "2025-06-27",
+    "customer_name": "Citra",
+    "product": "Matcha",
+    "qty": 1,
+    "price": 12336,
+    "payment_method": "Cash",
+    "total": 12336
+  },
+  {
+    "sales_id": "SO-1178",
+    "date": "2025-06-28",
+    "customer_name": "Andi",
+    "product": "Espresso",
+    "qty": 5,
+    "price": 48141,
+    "payment_method": "Cash",
+    "total": 240705
+  },
+  {
+    "sales_id": "SO-1179",
+    "date": "2025-06-29",
+    "customer_name": "Citra",
+    "product": "Latte",
+    "qty": 9,
+    "price": 12243,
+    "payment_method": "Credit Card",
+    "total": 110187
+  },
+  {
+    "sales_id": "SO-1180",
+    "date": "2025-06-30",
+    "customer_name": "Eka",
+    "product": "Chocolate Drink",
+    "qty": 6,
+    "price": 29029,
+    "payment_method": "Cash",
+    "total": 174174
+  },
+  {
+    "sales_id": "SO-1181",
+    "date": "2025-07-01",
+    "customer_name": "Gilang",
+    "product": "Espresso",
+    "qty": 1,
+    "price": 42265,
+    "payment_method": "E-Wallet",
+    "total": 42265
+  },
+  {
+    "sales_id": "SO-1182",
+    "date": "2025-07-02",
+    "customer_name": "Fajar",
+    "product": "Matcha",
+    "qty": 1,
+    "price": 47380,
+    "payment_method": "Credit Card",
+    "total": 47380
+  },
+  {
+    "sales_id": "SO-1183",
+    "date": "2025-07-03",
+    "customer_name": "Citra",
+    "product": "Espresso",
+    "qty": 2,
+    "price": 33710,
+    "payment_method": "Credit Card",
+    "total": 67420
+  },
+  {
+    "sales_id": "SO-1184",
+    "date": "2025-07-04",
+    "customer_name": "Andi",
+    "product": "Chocolate Drink",
+    "qty": 9,
+    "price": 39486,
+    "payment_method": "Credit Card",
+    "total": 355374
+  },
+  {
+    "sales_id": "SO-1185",
+    "date": "2025-07-05",
+    "customer_name": "Eka",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 16371,
+    "payment_method": "E-Wallet",
+    "total": 49113
+  },
+  {
+    "sales_id": "SO-1186",
+    "date": "2025-07-06",
+    "customer_name": "Budi",
+    "product": "Mocha",
+    "qty": 1,
+    "price": 16359,
+    "payment_method": "Credit Card",
+    "total": 16359
+  },
+  {
+    "sales_id": "SO-1187",
+    "date": "2025-07-07",
+    "customer_name": "Gilang",
+    "product": "Espresso",
+    "qty": 5,
+    "price": 45996,
+    "payment_method": "E-Wallet",
+    "total": 229980
+  },
+  {
+    "sales_id": "SO-1188",
+    "date": "2025-07-08",
+    "customer_name": "Gilang",
+    "product": "Cappuccino",
+    "qty": 7,
+    "price": 30103,
+    "payment_method": "Credit Card",
+    "total": 210721
+  },
+  {
+    "sales_id": "SO-1189",
+    "date": "2025-07-09",
+    "customer_name": "Fajar",
+    "product": "Espresso",
+    "qty": 6,
+    "price": 24382,
+    "payment_method": "Transfer",
+    "total": 146292
+  },
+  {
+    "sales_id": "SO-1190",
+    "date": "2025-07-10",
+    "customer_name": "Gilang",
+    "product": "Latte",
+    "qty": 1,
+    "price": 28755,
+    "payment_method": "Cash",
+    "total": 28755
+  },
+  {
+    "sales_id": "SO-1191",
+    "date": "2025-07-11",
+    "customer_name": "Citra",
+    "product": "Latte",
+    "qty": 5,
+    "price": 45659,
+    "payment_method": "Transfer",
+    "total": 228295
+  },
+  {
+    "sales_id": "SO-1192",
+    "date": "2025-07-12",
+    "customer_name": "Andi",
+    "product": "Mocha",
+    "qty": 5,
+    "price": 13756,
+    "payment_method": "Cash",
+    "total": 68780
+  },
+  {
+    "sales_id": "SO-1193",
+    "date": "2025-07-13",
+    "customer_name": "Gilang",
+    "product": "Cappuccino",
+    "qty": 6,
+    "price": 30609,
+    "payment_method": "E-Wallet",
+    "total": 183654
+  },
+  {
+    "sales_id": "SO-1194",
+    "date": "2025-07-14",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 3,
+    "price": 26478,
+    "payment_method": "Transfer",
+    "total": 79434
+  },
+  {
+    "sales_id": "SO-1195",
+    "date": "2025-07-15",
+    "customer_name": "Budi",
+    "product": "Latte",
+    "qty": 5,
+    "price": 45442,
+    "payment_method": "Credit Card",
+    "total": 227210
+  },
+  {
+    "sales_id": "SO-1196",
+    "date": "2025-07-16",
+    "customer_name": "Budi",
+    "product": "Mocha",
+    "qty": 7,
+    "price": 49666,
+    "payment_method": "Cash",
+    "total": 347662
+  },
+  {
+    "sales_id": "SO-1197",
+    "date": "2025-07-17",
+    "customer_name": "Dewi",
+    "product": "Matcha",
+    "qty": 5,
+    "price": 20147,
+    "payment_method": "Cash",
+    "total": 100735
+  },
+  {
+    "sales_id": "SO-1198",
+    "date": "2025-07-18",
+    "customer_name": "Eka",
+    "product": "Mocha",
+    "qty": 5,
+    "price": 43561,
+    "payment_method": "Transfer",
+    "total": 217805
+  },
+  {
+    "sales_id": "SO-1199",
+    "date": "2025-07-19",
+    "customer_name": "Citra",
+    "product": "Latte",
+    "qty": 5,
+    "price": 44884,
+    "payment_method": "E-Wallet",
+    "total": 224420
+  },
+  {
+    "sales_id": "SO-1200",
+    "date": "2025-07-20",
+    "customer_name": "Gilang",
+    "product": "Latte",
+    "qty": 3,
+    "price": 15779,
+    "payment_method": "Transfer",
+    "total": 47337
+  },
+  {
+    "sales_id": "SO-1201",
+    "date": "2025-07-21",
+    "customer_name": "Hani",
+    "product": "Mocha",
+    "qty": 1,
+    "price": 22298,
+    "payment_method": "E-Wallet",
+    "total": 22298
+  },
+  {
+    "sales_id": "SO-1202",
+    "date": "2025-07-22",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 5,
+    "price": 24153,
+    "payment_method": "E-Wallet",
+    "total": 120765
+  },
+  {
+    "sales_id": "SO-1203",
+    "date": "2025-07-23",
+    "customer_name": "Andi",
+    "product": "Espresso",
+    "qty": 9,
+    "price": 20789,
+    "payment_method": "Cash",
+    "total": 187101
+  },
+  {
+    "sales_id": "SO-1204",
+    "date": "2025-07-24",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 1,
+    "price": 22999,
+    "payment_method": "Transfer",
+    "total": 22999
+  },
+  {
+    "sales_id": "SO-1205",
+    "date": "2025-07-25",
+    "customer_name": "Eka",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 10814,
+    "payment_method": "Transfer",
+    "total": 32442
+  },
+  {
+    "sales_id": "SO-1206",
+    "date": "2025-07-26",
+    "customer_name": "Hani",
+    "product": "Mocha",
+    "qty": 4,
+    "price": 20541,
+    "payment_method": "E-Wallet",
+    "total": 82164
+  },
+  {
+    "sales_id": "SO-1207",
+    "date": "2025-07-27",
+    "customer_name": "Dewi",
+    "product": "Cappuccino",
+    "qty": 1,
+    "price": 34938,
+    "payment_method": "Transfer",
+    "total": 34938
+  },
+  {
+    "sales_id": "SO-1208",
+    "date": "2025-07-28",
+    "customer_name": "Fajar",
+    "product": "Espresso",
+    "qty": 1,
+    "price": 12443,
+    "payment_method": "Credit Card",
+    "total": 12443
+  },
+  {
+    "sales_id": "SO-1209",
+    "date": "2025-07-29",
+    "customer_name": "Eka",
+    "product": "Matcha",
+    "qty": 8,
+    "price": 20457,
+    "payment_method": "Credit Card",
+    "total": 163656
+  },
+  {
+    "sales_id": "SO-1210",
+    "date": "2025-07-30",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 2,
+    "price": 20380,
+    "payment_method": "Transfer",
+    "total": 40760
+  },
+  {
+    "sales_id": "SO-1211",
+    "date": "2025-07-31",
+    "customer_name": "Gilang",
+    "product": "Matcha",
+    "qty": 8,
+    "price": 17783,
+    "payment_method": "Transfer",
+    "total": 142264
+  },
+  {
+    "sales_id": "SO-1212",
+    "date": "2025-08-01",
+    "customer_name": "Eka",
+    "product": "Espresso",
+    "qty": 7,
+    "price": 27368,
+    "payment_method": "E-Wallet",
+    "total": 191576
+  },
+  {
+    "sales_id": "SO-1213",
+    "date": "2025-08-02",
+    "customer_name": "Gilang",
+    "product": "Espresso",
+    "qty": 2,
+    "price": 25328,
+    "payment_method": "Credit Card",
+    "total": 50656
+  },
+  {
+    "sales_id": "SO-1214",
+    "date": "2025-08-03",
+    "customer_name": "Citra",
+    "product": "Espresso",
+    "qty": 6,
+    "price": 36215,
+    "payment_method": "Credit Card",
+    "total": 217290
+  },
+  {
+    "sales_id": "SO-1215",
+    "date": "2025-08-04",
+    "customer_name": "Eka",
+    "product": "Matcha",
+    "qty": 6,
+    "price": 43595,
+    "payment_method": "Cash",
+    "total": 261570
+  },
+  {
+    "sales_id": "SO-1216",
+    "date": "2025-08-05",
+    "customer_name": "Dewi",
+    "product": "Espresso",
+    "qty": 3,
+    "price": 37306,
+    "payment_method": "E-Wallet",
+    "total": 111918
+  },
+  {
+    "sales_id": "SO-1217",
+    "date": "2025-08-06",
+    "customer_name": "Eka",
+    "product": "Mocha",
+    "qty": 2,
+    "price": 29915,
+    "payment_method": "Cash",
+    "total": 59830
+  },
+  {
+    "sales_id": "SO-1218",
+    "date": "2025-08-07",
+    "customer_name": "Hani",
+    "product": "Matcha",
+    "qty": 1,
+    "price": 49915,
+    "payment_method": "Credit Card",
+    "total": 49915
+  },
+  {
+    "sales_id": "SO-1219",
+    "date": "2025-08-08",
+    "customer_name": "Gilang",
+    "product": "Espresso",
+    "qty": 6,
+    "price": 47219,
+    "payment_method": "E-Wallet",
+    "total": 283314
+  },
+  {
+    "sales_id": "SO-1220",
+    "date": "2025-08-09",
+    "customer_name": "Citra",
+    "product": "Mocha",
+    "qty": 5,
+    "price": 25343,
+    "payment_method": "Transfer",
+    "total": 126715
+  },
+  {
+    "sales_id": "SO-1221",
+    "date": "2025-08-10",
+    "customer_name": "Citra",
+    "product": "Cappuccino",
+    "qty": 9,
+    "price": 48727,
+    "payment_method": "E-Wallet",
+    "total": 438543
+  },
+  {
+    "sales_id": "SO-1222",
+    "date": "2025-08-11",
+    "customer_name": "Fajar",
+    "product": "Espresso",
+    "qty": 1,
+    "price": 10126,
+    "payment_method": "Transfer",
+    "total": 10126
+  },
+  {
+    "sales_id": "SO-1223",
+    "date": "2025-08-12",
+    "customer_name": "Dewi",
+    "product": "Matcha",
+    "qty": 7,
+    "price": 37632,
+    "payment_method": "Transfer",
+    "total": 263424
+  },
+  {
+    "sales_id": "SO-1224",
+    "date": "2025-08-13",
+    "customer_name": "Budi",
+    "product": "Latte",
+    "qty": 5,
+    "price": 30530,
+    "payment_method": "E-Wallet",
+    "total": 152650
+  },
+  {
+    "sales_id": "SO-1225",
+    "date": "2025-08-14",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 5,
+    "price": 49964,
+    "payment_method": "Transfer",
+    "total": 249820
+  },
+  {
+    "sales_id": "SO-1226",
+    "date": "2025-08-15",
+    "customer_name": "Eka",
+    "product": "Latte",
+    "qty": 2,
+    "price": 13368,
+    "payment_method": "Cash",
+    "total": 26736
+  },
+  {
+    "sales_id": "SO-1227",
+    "date": "2025-08-16",
+    "customer_name": "Fajar",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 13797,
+    "payment_method": "Credit Card",
+    "total": 41391
+  },
+  {
+    "sales_id": "SO-1228",
+    "date": "2025-08-17",
+    "customer_name": "Andi",
+    "product": "Cappuccino",
+    "qty": 7,
+    "price": 23718,
+    "payment_method": "Transfer",
+    "total": 166026
+  },
+  {
+    "sales_id": "SO-1229",
+    "date": "2025-08-18",
+    "customer_name": "Eka",
+    "product": "Chocolate Drink",
+    "qty": 6,
+    "price": 44560,
+    "payment_method": "Cash",
+    "total": 267360
+  },
+  {
+    "sales_id": "SO-1230",
+    "date": "2025-08-19",
+    "customer_name": "Fajar",
+    "product": "Cappuccino",
+    "qty": 2,
+    "price": 21053,
+    "payment_method": "Transfer",
+    "total": 42106
+  },
+  {
+    "sales_id": "SO-1231",
+    "date": "2025-08-20",
+    "customer_name": "Dewi",
+    "product": "Espresso",
+    "qty": 6,
+    "price": 32116,
+    "payment_method": "Credit Card",
+    "total": 192696
+  },
+  {
+    "sales_id": "SO-1232",
+    "date": "2025-08-21",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 2,
+    "price": 46244,
+    "payment_method": "Cash",
+    "total": 92488
+  },
+  {
+    "sales_id": "SO-1233",
+    "date": "2025-08-22",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 2,
+    "price": 46185,
+    "payment_method": "Credit Card",
+    "total": 92370
+  },
+  {
+    "sales_id": "SO-1234",
+    "date": "2025-08-23",
+    "customer_name": "Dewi",
+    "product": "Matcha",
+    "qty": 2,
+    "price": 11645,
+    "payment_method": "Credit Card",
+    "total": 23290
+  },
+  {
+    "sales_id": "SO-1235",
+    "date": "2025-08-24",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 3,
+    "price": 29256,
+    "payment_method": "Cash",
+    "total": 87768
+  },
+  {
+    "sales_id": "SO-1236",
+    "date": "2025-08-25",
+    "customer_name": "Fajar",
+    "product": "Matcha",
+    "qty": 2,
+    "price": 45840,
+    "payment_method": "Cash",
+    "total": 91680
+  },
+  {
+    "sales_id": "SO-1237",
+    "date": "2025-08-26",
+    "customer_name": "Fajar",
+    "product": "Mocha",
+    "qty": 4,
+    "price": 44622,
+    "payment_method": "Cash",
+    "total": 178488
+  },
+  {
+    "sales_id": "SO-1238",
+    "date": "2025-08-27",
+    "customer_name": "Citra",
+    "product": "Chocolate Drink",
+    "qty": 9,
+    "price": 47430,
+    "payment_method": "E-Wallet",
+    "total": 426870
+  },
+  {
+    "sales_id": "SO-1239",
+    "date": "2025-08-28",
+    "customer_name": "Hani",
+    "product": "Espresso",
+    "qty": 6,
+    "price": 49282,
+    "payment_method": "Cash",
+    "total": 295692
+  },
+  {
+    "sales_id": "SO-1240",
+    "date": "2025-08-29",
+    "customer_name": "Budi",
+    "product": "Matcha",
+    "qty": 1,
+    "price": 12708,
+    "payment_method": "Cash",
+    "total": 12708
+  },
+  {
+    "sales_id": "SO-1241",
+    "date": "2025-08-30",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 8,
+    "price": 21694,
+    "payment_method": "Cash",
+    "total": 173552
+  },
+  {
+    "sales_id": "SO-1242",
+    "date": "2025-08-31",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 7,
+    "price": 19524,
+    "payment_method": "Cash",
+    "total": 136668
+  },
+  {
+    "sales_id": "SO-1243",
+    "date": "2025-09-01",
+    "customer_name": "Andi",
+    "product": "Latte",
+    "qty": 3,
+    "price": 41880,
+    "payment_method": "Transfer",
+    "total": 125640
+  },
+  {
+    "sales_id": "SO-1244",
+    "date": "2025-09-02",
+    "customer_name": "Gilang",
+    "product": "Chocolate Drink",
+    "qty": 1,
+    "price": 49224,
+    "payment_method": "E-Wallet",
+    "total": 49224
+  },
+  {
+    "sales_id": "SO-1245",
+    "date": "2025-09-03",
+    "customer_name": "Fajar",
+    "product": "Latte",
+    "qty": 5,
+    "price": 46980,
+    "payment_method": "Credit Card",
+    "total": 234900
+  },
+  {
+    "sales_id": "SO-1246",
+    "date": "2025-09-04",
+    "customer_name": "Andi",
+    "product": "Mocha",
+    "qty": 4,
+    "price": 42409,
+    "payment_method": "Cash",
+    "total": 169636
+  },
+  {
+    "sales_id": "SO-1247",
+    "date": "2025-09-05",
+    "customer_name": "Andi",
+    "product": "Mocha",
+    "qty": 8,
+    "price": 23224,
+    "payment_method": "Transfer",
+    "total": 185792
+  },
+  {
+    "sales_id": "SO-1248",
+    "date": "2025-09-06",
+    "customer_name": "Andi",
+    "product": "Chocolate Drink",
+    "qty": 1,
+    "price": 35150,
+    "payment_method": "Transfer",
+    "total": 35150
+  },
+  {
+    "sales_id": "SO-1249",
+    "date": "2025-09-07",
+    "customer_name": "Citra",
+    "product": "Matcha",
+    "qty": 1,
+    "price": 44393,
+    "payment_method": "Transfer",
+    "total": 44393
+  },
+  {
+    "sales_id": "SO-1250",
+    "date": "2025-09-08",
+    "customer_name": "Fajar",
+    "product": "Matcha",
+    "qty": 4,
+    "price": 17973,
+    "payment_method": "Credit Card",
+    "total": 71892
+  },
+  {
+    "sales_id": "SO-1251",
+    "date": "2025-09-09",
+    "customer_name": "Andi",
+    "product": "Chocolate Drink",
+    "qty": 8,
+    "price": 18577,
+    "payment_method": "Cash",
+    "total": 148616
+  },
+  {
+    "sales_id": "SO-1252",
+    "date": "2025-09-10",
+    "customer_name": "Dewi",
+    "product": "Matcha",
+    "qty": 5,
+    "price": 18070,
+    "payment_method": "E-Wallet",
+    "total": 90350
+  },
+  {
+    "sales_id": "SO-1253",
+    "date": "2025-09-11",
+    "customer_name": "Eka",
+    "product": "Matcha",
+    "qty": 2,
+    "price": 18666,
+    "payment_method": "E-Wallet",
+    "total": 37332
+  },
+  {
+    "sales_id": "SO-1254",
+    "date": "2025-09-12",
+    "customer_name": "Andi",
+    "product": "Mocha",
+    "qty": 6,
+    "price": 46368,
+    "payment_method": "Transfer",
+    "total": 278208
+  },
+  {
+    "sales_id": "SO-1255",
+    "date": "2025-09-13",
+    "customer_name": "Citra",
+    "product": "Matcha",
+    "qty": 5,
+    "price": 16783,
+    "payment_method": "Credit Card",
+    "total": 83915
+  },
+  {
+    "sales_id": "SO-1256",
+    "date": "2025-09-14",
+    "customer_name": "Gilang",
+    "product": "Cappuccino",
+    "qty": 2,
+    "price": 14971,
+    "payment_method": "Credit Card",
+    "total": 29942
+  },
+  {
+    "sales_id": "SO-1257",
+    "date": "2025-09-15",
+    "customer_name": "Fajar",
+    "product": "Espresso",
+    "qty": 3,
+    "price": 23490,
+    "payment_method": "Credit Card",
+    "total": 70470
+  },
+  {
+    "sales_id": "SO-1258",
+    "date": "2025-09-16",
+    "customer_name": "Hani",
+    "product": "Latte",
+    "qty": 9,
+    "price": 11990,
+    "payment_method": "E-Wallet",
+    "total": 107910
+  },
+  {
+    "sales_id": "SO-1259",
+    "date": "2025-09-17",
+    "customer_name": "Citra",
+    "product": "Cappuccino",
+    "qty": 7,
+    "price": 15299,
+    "payment_method": "Transfer",
+    "total": 107093
+  },
+  {
+    "sales_id": "SO-1260",
+    "date": "2025-09-18",
+    "customer_name": "Andi",
+    "product": "Matcha",
+    "qty": 7,
+    "price": 29956,
+    "payment_method": "Cash",
+    "total": 209692
+  },
+  {
+    "sales_id": "SO-1261",
+    "date": "2025-09-19",
+    "customer_name": "Fajar",
+    "product": "Mocha",
+    "qty": 6,
+    "price": 32359,
+    "payment_method": "E-Wallet",
+    "total": 194154
+  },
+  {
+    "sales_id": "SO-1262",
+    "date": "2025-09-20",
+    "customer_name": "Eka",
+    "product": "Chocolate Drink",
+    "qty": 8,
+    "price": 47148,
+    "payment_method": "Transfer",
+    "total": 377184
+  },
+  {
+    "sales_id": "SO-1263",
+    "date": "2025-09-21",
+    "customer_name": "Andi",
+    "product": "Matcha",
+    "qty": 4,
+    "price": 38734,
+    "payment_method": "Transfer",
+    "total": 154936
+  },
+  {
+    "sales_id": "SO-1264",
+    "date": "2025-09-22",
+    "customer_name": "Citra",
+    "product": "Mocha",
+    "qty": 8,
+    "price": 14757,
+    "payment_method": "Cash",
+    "total": 118056
+  },
+  {
+    "sales_id": "SO-1265",
+    "date": "2025-09-23",
+    "customer_name": "Budi",
+    "product": "Espresso",
+    "qty": 4,
+    "price": 29097,
+    "payment_method": "Cash",
+    "total": 116388
+  },
+  {
+    "sales_id": "SO-1266",
+    "date": "2025-09-24",
+    "customer_name": "Dewi",
+    "product": "Matcha",
+    "qty": 8,
+    "price": 20395,
+    "payment_method": "Cash",
+    "total": 163160
+  },
+  {
+    "sales_id": "SO-1267",
+    "date": "2025-09-25",
+    "customer_name": "Hani",
+    "product": "Chocolate Drink",
+    "qty": 9,
+    "price": 26241,
+    "payment_method": "Credit Card",
+    "total": 236169
+  },
+  {
+    "sales_id": "SO-1268",
+    "date": "2025-09-26",
+    "customer_name": "Gilang",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 48356,
+    "payment_method": "Cash",
+    "total": 145068
+  },
+  {
+    "sales_id": "SO-1269",
+    "date": "2025-09-27",
+    "customer_name": "Citra",
+    "product": "Mocha",
+    "qty": 3,
+    "price": 37696,
+    "payment_method": "Transfer",
+    "total": 113088
+  },
+  {
+    "sales_id": "SO-1270",
+    "date": "2025-09-28",
+    "customer_name": "Fajar",
+    "product": "Mocha",
+    "qty": 2,
+    "price": 14944,
+    "payment_method": "Cash",
+    "total": 29888
+  },
+  {
+    "sales_id": "SO-1271",
+    "date": "2025-09-29",
+    "customer_name": "Hani",
+    "product": "Espresso",
+    "qty": 3,
+    "price": 29816,
+    "payment_method": "Transfer",
+    "total": 89448
+  },
+  {
+    "sales_id": "SO-1272",
+    "date": "2025-09-30",
+    "customer_name": "Hani",
+    "product": "Matcha",
+    "qty": 3,
+    "price": 47011,
+    "payment_method": "E-Wallet",
+    "total": 141033
+  },
+  {
+    "sales_id": "SO-1273",
+    "date": "2025-10-01",
+    "customer_name": "Hani",
+    "product": "Espresso",
+    "qty": 5,
+    "price": 34917,
+    "payment_method": "Credit Card",
+    "total": 174585
+  },
+  {
+    "sales_id": "SO-1274",
+    "date": "2025-10-02",
+    "customer_name": "Andi",
+    "product": "Latte",
+    "qty": 5,
+    "price": 41195,
+    "payment_method": "E-Wallet",
+    "total": 205975
+  },
+  {
+    "sales_id": "SO-1275",
+    "date": "2025-10-03",
+    "customer_name": "Dewi",
+    "product": "Latte",
+    "qty": 2,
+    "price": 31566,
+    "payment_method": "E-Wallet",
+    "total": 63132
+  },
+  {
+    "sales_id": "SO-1276",
+    "date": "2025-10-04",
+    "customer_name": "Andi",
+    "product": "Matcha",
+    "qty": 6,
+    "price": 19916,
+    "payment_method": "Transfer",
+    "total": 119496
+  },
+  {
+    "sales_id": "SO-1277",
+    "date": "2025-10-05",
+    "customer_name": "Fajar",
+    "product": "Espresso",
+    "qty": 5,
+    "price": 30806,
+    "payment_method": "E-Wallet",
+    "total": 154030
+  },
+  {
+    "sales_id": "SO-1278",
+    "date": "2025-10-06",
+    "customer_name": "Andi",
+    "product": "Chocolate Drink",
+    "qty": 6,
+    "price": 19984,
+    "payment_method": "Transfer",
+    "total": 119904
+  },
+  {
+    "sales_id": "SO-1279",
+    "date": "2025-10-07",
+    "customer_name": "Budi",
+    "product": "Mocha",
+    "qty": 1,
+    "price": 11759,
+    "payment_method": "Cash",
+    "total": 11759
+  },
+  {
+    "sales_id": "SO-1280",
+    "date": "2025-10-08",
+    "customer_name": "Dewi",
+    "product": "Mocha",
+    "qty": 5,
+    "price": 36838,
+    "payment_method": "Cash",
+    "total": 184190
+  },
+  {
+    "sales_id": "SO-1281",
+    "date": "2025-10-09",
+    "customer_name": "Dewi",
+    "product": "Matcha",
+    "qty": 9,
+    "price": 12482,
+    "payment_method": "Transfer",
+    "total": 112338
+  },
+  {
+    "sales_id": "SO-1282",
+    "date": "2025-10-10",
+    "customer_name": "Fajar",
+    "product": "Latte",
+    "qty": 2,
+    "price": 34442,
+    "payment_method": "Cash",
+    "total": 68884
+  },
+  {
+    "sales_id": "SO-1283",
+    "date": "2025-10-11",
+    "customer_name": "Gilang",
+    "product": "Latte",
+    "qty": 1,
+    "price": 43719,
+    "payment_method": "Credit Card",
+    "total": 43719
+  },
+  {
+    "sales_id": "SO-1284",
+    "date": "2025-10-12",
+    "customer_name": "Budi",
+    "product": "Mocha",
+    "qty": 9,
+    "price": 37965,
+    "payment_method": "E-Wallet",
+    "total": 341685
+  },
+  {
+    "sales_id": "SO-1285",
+    "date": "2025-10-13",
+    "customer_name": "Citra",
+    "product": "Matcha",
+    "qty": 9,
+    "price": 12079,
+    "payment_method": "Credit Card",
+    "total": 108711
+  },
+  {
+    "sales_id": "SO-1286",
+    "date": "2025-10-14",
+    "customer_name": "Andi",
+    "product": "Espresso",
+    "qty": 9,
+    "price": 12717,
+    "payment_method": "E-Wallet",
+    "total": 114453
+  },
+  {
+    "sales_id": "SO-1287",
+    "date": "2025-10-15",
+    "customer_name": "Eka",
+    "product": "Latte",
+    "qty": 6,
+    "price": 37952,
+    "payment_method": "Cash",
+    "total": 227712
+  },
+  {
+    "sales_id": "SO-1288",
+    "date": "2025-10-16",
+    "customer_name": "Andi",
+    "product": "Espresso",
+    "qty": 8,
+    "price": 30908,
+    "payment_method": "Credit Card",
+    "total": 247264
+  },
+  {
+    "sales_id": "SO-1289",
+    "date": "2025-10-17",
+    "customer_name": "Hani",
+    "product": "Latte",
+    "qty": 1,
+    "price": 34861,
+    "payment_method": "Cash",
+    "total": 34861
+  },
+  {
+    "sales_id": "SO-1290",
+    "date": "2025-10-18",
+    "customer_name": "Andi",
+    "product": "Latte",
+    "qty": 4,
+    "price": 17311,
+    "payment_method": "E-Wallet",
+    "total": 69244
+  },
+  {
+    "sales_id": "SO-1291",
+    "date": "2025-10-19",
+    "customer_name": "Citra",
+    "product": "Cappuccino",
+    "qty": 1,
+    "price": 38071,
+    "payment_method": "Transfer",
+    "total": 38071
+  },
+  {
+    "sales_id": "SO-1292",
+    "date": "2025-10-20",
+    "customer_name": "Andi",
+    "product": "Latte",
+    "qty": 8,
+    "price": 33570,
+    "payment_method": "Transfer",
+    "total": 268560
+  },
+  {
+    "sales_id": "SO-1293",
+    "date": "2025-10-21",
+    "customer_name": "Budi",
+    "product": "Chocolate Drink",
+    "qty": 1,
+    "price": 28449,
+    "payment_method": "Credit Card",
+    "total": 28449
+  },
+  {
+    "sales_id": "SO-1294",
+    "date": "2025-10-22",
+    "customer_name": "Budi",
+    "product": "Matcha",
+    "qty": 3,
+    "price": 43536,
+    "payment_method": "Cash",
+    "total": 130608
+  },
+  {
+    "sales_id": "SO-1295",
+    "date": "2025-10-23",
+    "customer_name": "Dewi",
+    "product": "Matcha",
+    "qty": 4,
+    "price": 48258,
+    "payment_method": "Cash",
+    "total": 193032
+  },
+  {
+    "sales_id": "SO-1296",
+    "date": "2025-10-24",
+    "customer_name": "Fajar",
+    "product": "Espresso",
+    "qty": 8,
+    "price": 38865,
+    "payment_method": "Credit Card",
+    "total": 310920
+  },
+  {
+    "sales_id": "SO-1297",
+    "date": "2025-10-25",
+    "customer_name": "Gilang",
+    "product": "Latte",
+    "qty": 6,
+    "price": 16645,
+    "payment_method": "Transfer",
+    "total": 99870
+  },
+  {
+    "sales_id": "SO-1298",
+    "date": "2025-10-26",
+    "customer_name": "Eka",
+    "product": "Chocolate Drink",
+    "qty": 7,
+    "price": 48000,
+    "payment_method": "E-Wallet",
+    "total": 336000
+  },
+  {
+    "sales_id": "SO-1299",
+    "date": "2025-10-27",
+    "customer_name": "Hani",
+    "product": "Espresso",
+    "qty": 8,
+    "price": 36737,
+    "payment_method": "Credit Card",
+    "total": 293896
+  }
+]
