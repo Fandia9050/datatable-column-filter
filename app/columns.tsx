@@ -29,12 +29,17 @@ export const columns: ColumnDef<SalesOrderType>[] = [
     cell: ({ row }) => {
       return <Button variant={"link"}>{row.getValue("sales_id")}</Button>;
     },
+    filterFn: "includesString",
   },
   {
     accessorKey: "date",
     header: "Date",
     cell: ({ row }) => {
       return <p>{row.getValue("date")}</p>;
+    },
+    filterFn: "includesString",
+    meta: {
+      filterVariant: "date-range",
     },
   },
   {
@@ -43,6 +48,7 @@ export const columns: ColumnDef<SalesOrderType>[] = [
     cell: ({ row }) => {
       return <p>{row.getValue("customer_name")}</p>;
     },
+    filterFn: "includesString",
   },
   {
     accessorKey: "product",
@@ -50,6 +56,7 @@ export const columns: ColumnDef<SalesOrderType>[] = [
     cell: ({ row }) => {
       return <p>{row.getValue("product")}</p>;
     },
+    filterFn: "includesString",
   },
   {
     accessorKey: "qty",
@@ -57,6 +64,7 @@ export const columns: ColumnDef<SalesOrderType>[] = [
     cell: ({ row }) => {
       return <p>{row.getValue("qty")}</p>;
     },
+    filterFn: "inNumberRange",
   },
   {
     accessorKey: "price",
@@ -65,12 +73,18 @@ export const columns: ColumnDef<SalesOrderType>[] = [
       const price = row.getValue("price") as number;
       return <p>{currencyFormatter(price)}</p>;
     },
+    filterFn: "inNumberRange",
   },
   {
     accessorKey: "payment_method",
     header: "Payment Method",
     cell: ({ row }) => {
       return <p>{row.getValue("payment_method")}</p>;
+    },
+    filterFn: "equalsString",
+    meta: {
+      filterVariant: "select",
+      options: Object.values(PaymentMethod),
     },
   },
   {
