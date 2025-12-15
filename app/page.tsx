@@ -7,13 +7,14 @@ import { ColumnFiltersState } from "@tanstack/react-table";
 
 const salesOrders = data as SalesOrderType[];
 export default function Page() {
-  const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>();
+  const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([]);
   return (
     <div className="flex-1 h-full">
       <DataTable
         data={salesOrders}
         columns={columns}
         columngFilters={columnFilters}
+        setColumnFilters={setColumnFilters}
       />
     </div>
   );

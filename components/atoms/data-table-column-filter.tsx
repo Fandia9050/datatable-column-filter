@@ -22,21 +22,15 @@ export function ColumnFilter<TData>({ column }: ColumnFilterProps<TData>) {
   const columnMeta = column.columnDef.meta;
   const filterVariant = columnMeta?.filterVariant;
 
-  console.log(columnMeta, "filterVariant");
-
   if (!column.getCanFilter()) return null;
 
   const filterValue = column.getFilterValue();
 
   if (filterVariant === "range") {
-    // const [min, max] = filterValue ?? [undefined, undefined];
     return (
       <div className="flex gap-2">
         <Input
           type="number"
-          //   min={Number(column.getFacetedMinMaxValues()?.[0] ?? "")}
-          //   max={Number(column.getFacetedMinMaxValues()?.[1] ?? "")}
-          //   value={min ?? ""}
           onChange={(e) =>
             column.setFilterValue((old: [number, number]) => [
               e.target.value,
@@ -47,9 +41,6 @@ export function ColumnFilter<TData>({ column }: ColumnFilterProps<TData>) {
         />
         <Input
           type="number"
-          //   min={Number(column.getFacetedMinMaxValues()?.[0] ?? "")}
-          //   max={Number(column.getFacetedMinMaxValues()?.[1] ?? "")}
-          //   value={max ?? ""}
           onChange={(e) =>
             column.setFilterValue((old: [number, number]) => [
               old?.[0],
@@ -76,7 +67,15 @@ export function ColumnFilter<TData>({ column }: ColumnFilterProps<TData>) {
   }
 
   if (filterVariant === "date-range") {
-    return <DatePicker />;
+    return (
+      <DatePicker
+        mode="range"
+        onSelect={(e) => {
+          console.log("range", e);
+        }}
+        captionLayout="dropdown"
+      />
+    );
   }
 
   return (

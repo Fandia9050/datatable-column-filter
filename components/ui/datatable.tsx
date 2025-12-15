@@ -23,7 +23,9 @@ import {
   ChevronsLeft,
   ChevronsRight,
 } from "lucide-react";
+import { ColumnFilter } from "../atoms/data-table-column-filter";
 import { Button } from "./button";
+import { ScrollArea, ScrollBar } from "./scroll-area";
 import {
   Select,
   SelectContent,
@@ -31,20 +33,20 @@ import {
   SelectTrigger,
   SelectValue,
 } from "./select";
-import { Input } from "./input";
-import { ScrollArea, ScrollBar } from "./scroll-area";
-import { ColumnFilter } from "../atoms/data-table-column-filter";
+import { Dispatch, SetStateAction } from "react";
 
 interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[];
   data: TData[];
   columngFilters?: ColumnFiltersState | undefined;
+  setColumnFilters: Dispatch<SetStateAction<ColumnFiltersState>>;
 }
 
 export function DataTable<TData, TValue>({
   columns,
   data,
   columngFilters,
+  setColumnFilters,
 }: DataTableProps<TData, TValue>) {
   const table = useReactTable({
     data,
@@ -52,6 +54,7 @@ export function DataTable<TData, TValue>({
     getCoreRowModel: getCoreRowModel(),
     getPaginationRowModel: getPaginationRowModel(),
     getFilteredRowModel: getFilteredRowModel(),
+    onColumnFiltersChange: setColumnFilters,
     state: {
       columnFilters: columngFilters,
     },
@@ -66,7 +69,10 @@ export function DataTable<TData, TValue>({
               <TableRow key={headerGroup.id}>
                 {headerGroup.headers.map((header) => {
                   return (
-                    <TableHead key={header.id} className="first:pl-6 last:pr-6">
+                    <TableHead
+                      key={header.id}
+                      className="first:pl-6 last:pr-6 py-3"
+                    >
                       {header.isPlaceholder
                         ? null
                         : flexRender(
