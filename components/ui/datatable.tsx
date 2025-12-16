@@ -38,14 +38,14 @@ import { Dispatch, SetStateAction } from "react";
 interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[];
   data: TData[];
-  columngFilters?: ColumnFiltersState | undefined;
+  columnFilters?: ColumnFiltersState | undefined;
   setColumnFilters: Dispatch<SetStateAction<ColumnFiltersState>>;
 }
 
 export function DataTable<TData, TValue>({
   columns,
   data,
-  columngFilters,
+  columnFilters,
   setColumnFilters,
 }: DataTableProps<TData, TValue>) {
   const table = useReactTable({
@@ -56,7 +56,7 @@ export function DataTable<TData, TValue>({
     getFilteredRowModel: getFilteredRowModel(),
     onColumnFiltersChange: setColumnFilters,
     state: {
-      columnFilters: columngFilters,
+      columnFilters: columnFilters,
     },
   });
 

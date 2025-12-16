@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { NuqsAdapter } from "nuqs/adapters/next/app";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import {
@@ -67,7 +68,9 @@ export default function RootLayout({
                 </Breadcrumb>
               </div>
             </header>
-            <main className="p-4 h-full">{children}</main>
+            <main className="p-4 h-full">
+              <NuqsAdapter>{children}</NuqsAdapter>
+            </main>
           </SidebarInset>
         </SidebarProvider>
       </body>

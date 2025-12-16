@@ -1,9 +1,9 @@
 "use client";
 import { DataTable } from "@/components/ui/datatable";
 import data from "@/json/sales-orders.json";
-import { columns, SalesOrderType } from "./columns";
-import { useState } from "react";
 import { ColumnFiltersState } from "@tanstack/react-table";
+import { useState } from "react";
+import { columns, SalesOrderType } from "./columns";
 
 const salesOrders = data as SalesOrderType[];
 export default function Page() {
@@ -13,7 +13,7 @@ export default function Page() {
       <DataTable
         data={salesOrders}
         columns={columns}
-        columngFilters={columnFilters}
+        columnFilters={columnFilters}
         setColumnFilters={setColumnFilters}
       />
     </div>

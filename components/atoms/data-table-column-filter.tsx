@@ -55,7 +55,7 @@ export function ColumnFilter<TData>({ column }: ColumnFilterProps<TData>) {
 
   if (filterVariant === "select") {
     return (
-      <NativeSelect>
+      <NativeSelect onChange={(e) => column.setFilterValue(e.target.value)}>
         <NativeSelectOption value="">All</NativeSelectOption>
         {columnMeta?.options?.map((option: string) => (
           <NativeSelectOption key={option} value={option}>
