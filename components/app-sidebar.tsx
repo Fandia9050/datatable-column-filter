@@ -47,13 +47,13 @@ const data = {
   ],
   projects: [
     {
-      name: "Client Side",
+      name: "Sales",
       url: "/",
       icon: Frame,
     },
     {
-      name: "Client With NUQS",
-      url: "/customer",
+      name: "Customers",
+      url: "/customers",
       icon: PieChart,
     },
     {

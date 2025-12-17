@@ -1,21 +1,12 @@
-import { ColumnDef } from "@tanstack/react-table";
-import { useQueryStates } from "nuqs";
+import { parseAsJson, useQueryState } from "nuqs";
+import type { ColumnFiltersState } from "@tanstack/react-table";
 
-interface Props<TData, TValue> {
-  columns: ColumnDef<TData, TValue>[];
-}
+// Parser untuk array column filters
+const columnFiltersParser = parseAsJson<ColumnFiltersState>().withDefault([]); // default empty array
 
-export function useFilterWithSearchParams<TData, TValue>({
-  columns,
-}: Props<TData, TValue>) {
-  console.log(
-    "columns",
-    columns.map((col) => col.id)
+export function useColumnFilters() {
+  return useQueryState(
+    "filters", // nama param di URL
+    columnFiltersParser
   );
-  const [filters, setFilters] = useQueryStates({});
-
-  return {
-    filters,
-    setFilters,
-  };
 }
