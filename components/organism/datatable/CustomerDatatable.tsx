@@ -27,7 +27,6 @@ import {
   ChevronsLeft,
   ChevronsRight,
 } from "lucide-react";
-import React from "react";
 
 interface Props<TData, TValue> {
   table: TanstackTable<TData>;

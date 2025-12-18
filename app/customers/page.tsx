@@ -10,7 +10,6 @@ import {
   useReactTable,
 } from "@tanstack/react-table";
 import { CustomerColumns } from "./columns";
-import { useTableStates } from "@/hooks/useTableStates";
 
 const customers = generateCustomer(500);
 

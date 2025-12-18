@@ -5,8 +5,8 @@ import {
   Command,
   Frame,
   GalleryVerticalEnd,
-  Map,
   PieChart,
+  Warehouse,
 } from "lucide-react";
 import * as React from "react";
 
@@ -57,9 +57,9 @@ const data = {
       icon: PieChart,
     },
     {
-      name: "Server Side",
-      url: "/purchase",
-      icon: Map,
+      name: "Products",
+      url: "/products",
+      icon: Warehouse,
     },
   ],
 };
